@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_wakewise"
+        android:title="Home"
+        android:enabled="true"
+        android:icon="@drawable/wakewiselogo"
+    />
+
+    <item
+        android:id="@+id/menu_create"
+        android:title="Create"
+        android:icon="@drawable/ic_alarm_black_24dp"
+    />
+
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings_black_24dp" />
+</menu>
